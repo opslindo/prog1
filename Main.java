@@ -7,5 +7,6 @@ class Main{
     a.altura = 1.69;
     a.sorte = 7;
     System.out.println(a.idade +" "+a.anoNasc+" "+ a.altura);
+    System.out.println("COÈ RAFAAAAAAAAAAAAA")
   }
 }
